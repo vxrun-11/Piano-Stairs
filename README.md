@@ -14,4 +14,4 @@ Breadboard,
 Laser lights,
 IR sensors,
 Breadboard,
-Male and Female wires,
+Male and Female wires.
