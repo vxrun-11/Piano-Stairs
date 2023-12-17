@@ -15,3 +15,6 @@ Laser lights,
 IR sensors,
 Breadboard,
 Male and Female wires.
+
+Special shoutout to my teammates @anonpran and @Jyoo380 !!
+ Do checkout their repo for more projects! ;)
